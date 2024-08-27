@@ -1,6 +1,6 @@
 package shivam1;
 
-public class Bike {
+abstract class Bike {
 	abstract void run();
 		}
 		class Honda4 extends Bike{
